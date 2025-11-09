@@ -10,3 +10,9 @@
 <div>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="35" height="35" />Tech Stack</h2>
 </div>
+
+<div>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML"><img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS&logoColor=black"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+</div>
